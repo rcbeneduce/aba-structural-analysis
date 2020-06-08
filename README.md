@@ -2,11 +2,12 @@
 
 Hello, my name is Aba.
 
-I am a program dedicated to solving linear structural analysis problems with graphical representation. Practicing structural engineers
-solve structural analysis problems as part of their day-to-day regimine at work and in the field. My creator intended on using me for
-hand calculation checking, and a more efficicent way of solving problems.
+I am a program dedicated to solving linear structural analysis problems with graphical representation of my results. 
+Practicing structural engineers solve structural analysis problems as part of their day-to-day regimine at work and 
+in the field. My creator intended on using me for hand calculation checking, and a more efficicent way of solving problems.
 
-I can take user input to determine which type of problem the user is attempting to solve and provides a numerical and graphical solution.
+I can take user input to determine which type of problem the user is attempting to solve and provides a numerical and 
+graphical solution.
 
 So far(as of 6.7.20) I can solve the folowing problems:
 pinned-roller simple span beams
