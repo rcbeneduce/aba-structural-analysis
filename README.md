@@ -1,10 +1,12 @@
 # aba-structural-analysis
 
-Hello, my name is Aba.
+Hello, my name is Aba. (Version 1.0.1)
 
 I am a program dedicated to solving linear structural analysis problems with graphical representation of my results. 
-Practicing structural engineers solve structural analysis problems as part of their day-to-day regimine at work and 
+Practicing structural engineers solve structural analysis problems as part of their day-to-day regimine in the office and 
 in the field. My creator intended on using me for hand calculation checking, and a more efficicent way of solving problems.
+These simple lines of code are the back-bone of society because everything that one sees in the build environment can be
+traced back to some of these fundamental equations.
 
 I can take user input to determine which type of problem the user is attempting to solve and provides a numerical and 
 graphical solution.
